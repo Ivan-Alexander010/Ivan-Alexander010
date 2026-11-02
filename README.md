@@ -48,7 +48,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> IA </h4>
 <span>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
  
