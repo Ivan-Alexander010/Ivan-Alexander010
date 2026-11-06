@@ -37,7 +37,7 @@
     👯 I'm looking forward to collaborating on open source projects.
   </li>
   <li>
-    ✅ Ask me about anything, I'm happy to help, only if the ball is in my court! 😊
+    ✅ Ask me about anything, I'm happy to help, only if the ball is in my court! 
   </li>
   <li>
     📚 Outside tech, I love reading novels, 🖌️ painting and sketching,
