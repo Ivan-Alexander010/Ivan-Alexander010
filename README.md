@@ -1,23 +1,55 @@
-<h1 align="center">Hi , I'm Ivan Alexander <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="alexandarivanov07@gmail.com">alexandarivanov07@gmail.com</a>
+<h1 align="center">Hi, I'm Ivan Alexander 👋</h1>
 
+<h2>⭐ About me</h2>
+
+<p>
+  I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.
+  I love to learn and build something new, productive, innovative and creative.
+</p>
+
+<ul>
+  <li>
+    💻 <strong>Languages:</strong> I work with
+    <strong>HTML5</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and <strong>Python</strong>.
+  </li>
+  <li>
+    ⚙️ <strong>Backend:</strong> I build with <strong>Django</strong>
+    and store my data in <strong>PostgreSQL</strong>.
+  </li>
+  <li>
+    🎨 <strong>Frameworks:</strong> I style my projects with <strong>Bootstrap</strong>.
+  </li>
+  <li>
+    🛠️ <strong>Tools:</strong> I code in <strong>Visual Studio Code</strong>
+    and use <strong>Claude</strong> as my AI sidekick.
+  </li>
+  <li>
+    🌱 I'm currently learning <strong>Java</strong> and <strong>React js</strong>.
+  </li>
+  <li>
+    👯 I'm looking forward to collaborating on open source projects.
+  </li>
+  <li>
+    ✅ Ask me about anything, I'm happy to help, only if the ball is in my court! 😊
+  </li>
+  <li>
+    📚 Outside tech, I love reading novels, 🖌️ painting and sketching,
+    🎵 listening to music, and 🌴 exploring nature outdoors.
+  </li>
+  <li>
+    📫 Reach out to me at:
+    <a href="mailto:alexandarivanov07@gmail.com">alexandarivanov07@gmail.com</a>
+  </li>
+</ul>
 ## My Skills Include
 
 <h4> Languages </h4>
