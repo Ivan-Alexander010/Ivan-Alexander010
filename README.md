@@ -10,7 +10,7 @@
 <h2>⭐ About me</h2>
 
 <p>
-  I am an undergraduate Computer Science and Engineering student at IIIT-Hyderabad.
+ I am a computer science student.
   I love to learn and build something new, productive, innovative and creative.
 </p>
 
